@@ -1,0 +1,1 @@
+# kubedns-amd64
